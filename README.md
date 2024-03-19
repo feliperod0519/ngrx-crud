@@ -25,3 +25,24 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+Managing global and local state.
+Isolation of side effects to promote a cleaner component architecture.
+Entity collection management.
+Integration with the Angular Router.
+Developer tooling that enhances developer experience when building many different types of applications.
+
+npm i @ngrx/store
+npm i @ngrx/effects
+npm i @ngrx/router-store
+npm i @ngrx/store-devtools
+
+1. Interfaces
+2. Services API-like
+3. State
+4. Actions
+5. Export actions
+6. Effects
+7. Reducers
+8. Selectors
